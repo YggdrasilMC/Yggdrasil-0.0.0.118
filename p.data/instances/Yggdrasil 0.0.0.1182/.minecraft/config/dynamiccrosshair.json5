@@ -1,0 +1,28 @@
+{
+	"dynamicCrosshair": true,
+	"crosshairSettings": {
+		"onBlock": "IfTargeting",
+		"onEntity": true,
+		"holdingTool": "Always",
+		"holdingRangedWeapon": "Always",
+		"holdingThrowable": "Always",
+		"holdingBlock": "IfInteractable",
+		"holdingUsableItem": "IfInteractable"
+	},
+	"dynamicCrosshairStyle": true,
+	"crosshairStyle": {
+		"regular": "CROSS",
+		"onBlock": "CROSS",
+		"onEntity": "DIAGONAL_CROSS",
+		"holdingTool": "SQUARE",
+		"holdingRangedWeapon": "CIRCLE",
+		"holdingThrowable": "CIRCLE",
+		"holdingBlock": "DIAMOND"
+	},
+	"crosshairModifiers": {
+		"modInteractable": "BRACKETS",
+		"modCorrectTool": "DOT",
+		"modIncorrectTool": "DIAGONAL_CROSS",
+		"modUsableItem": "ROUND_BRACKETS"
+	}
+}

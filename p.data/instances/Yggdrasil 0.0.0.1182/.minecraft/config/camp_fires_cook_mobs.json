@@ -1,0 +1,7 @@
+{
+  "standard_campfires_burn_items": true,
+  "soul_campfires_burn_items": false,
+  "frost_walker_protects_from_standard_campfires": true,
+  "frost_walker_protects_from_soul_campfires": false,
+  "fetch_translation_updates": true
+}

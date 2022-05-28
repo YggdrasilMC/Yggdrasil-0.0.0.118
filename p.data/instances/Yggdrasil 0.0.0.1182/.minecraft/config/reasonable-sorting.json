@@ -1,0 +1,18 @@
+{
+  "enableSorting": true,
+  "enableDefaultItemSortingRules": true,
+  "customSortingRules": [],
+  "variantsFollowingBaseBlocks": "stairs slab",
+  "shapesFollowingBaseBlocks": "*",
+  "fenceGateFollowsFence": true,
+  "enableGroupTransfer": true,
+  "buttonsInDecorations": false,
+  "fenceGatesInDecorations": true,
+  "swordsInTools": false,
+  "doorsInDecorations": false,
+  "transferRules": [],
+  "variantTransferRules": [],
+  "regexTransferRules": [],
+  "shapeTransferRules": [],
+  "baseBlocksInBuildingBlocks": true
+}

@@ -1,2 +1,15 @@
 #prevent accounts file syncing
 accounts.json
+usercache.json
+
+#fabric data
+.fabric
+
+#logs
+logs
+
+#mod translations
+ModTranslations
+
+#Save Game Data
+saves
