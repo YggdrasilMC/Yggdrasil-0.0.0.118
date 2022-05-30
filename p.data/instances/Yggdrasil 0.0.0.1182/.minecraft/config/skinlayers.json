@@ -5,12 +5,8 @@
   "enableRightSleeve": true,
   "enableLeftPants": true,
   "enableRightPants": true,
-  "baseVoxelSize": 1.15,
-  "bodyVoxelWidthSize": 1.05,
+  "baseVoxelSize": 1.16,
+  "bodyVoxelHeightSize": 1.1,
   "headVoxelSize": 1.18,
-  "renderDistanceLOD": 14,
-  "enableSkulls": true,
-  "enableSkullsItems": true,
-  "skullVoxelSize": 1.1,
-  "fastRender": true
+  "renderDistanceLOD": 14
 }

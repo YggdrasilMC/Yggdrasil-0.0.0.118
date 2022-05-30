@@ -25,6 +25,8 @@ Platform - [Minecraft](https://www.minecraft.net/en-us/about-minecraft) [(credit
 
 [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger) by [shedaniel](https://www.curseforge.com/members/shedaniel/projects)
 
+[Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric), [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric), [Item Borders](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric), [Item Highlighter](https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric), [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric), & [Merchant Markers](https://www.curseforge.com/minecraft/mc-mods/merchant-markers-fabric) by [Grend_G](https://www.curseforge.com/members/grend_g)
+
 [Achievement Plates](https://www.curseforge.com/minecraft/mc-mods/achievement-plates) by [Pollux28](https://www.curseforge.com/members/pollux28/projects)
 
 [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin) by [squeek502](https://www.curseforge.com/members/squeek502/projects)
@@ -45,7 +47,9 @@ Platform - [Minecraft](https://www.minecraft.net/en-us/about-minecraft) [(credit
 
 [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) by [Socolio](https://www.curseforge.com/members/socolio/projects), & [DreenDexTwitch](https://www.curseforge.com/members/dreendextwitch/projects)
 
-[Better Resource Pack Sorting](https://www.curseforge.com/minecraft/mc-mods/better-resource-pack-sorting) by [MrMelon54](https://www.curseforge.com/members/mrmelon54/projects)
+[Better Resource Pack Sorting](https://www.curseforge.com/minecraft/mc-mods/better-resource-pack-sorting) by [MrMelon54](https://www.curseforge.com/members/mrmelon54/projects/projects)
+
+[Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) by [Motschen](https://www.curseforge.com/members/motschen), [PyrofabTheModsmith](https://www.curseforge.com/members/pyrofabthemodsmith/projects), & [tterrag1098](https://www.curseforge.com/members/tterrag1098)
 
 ##### C
 
@@ -65,17 +69,23 @@ Platform - [Minecraft](https://www.minecraft.net/en-us/about-minecraft) [(credit
 
 [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) by [shedaniel](https://www.curseforge.com/members/shedaniel/projects), [LinkieIsBetterThanK9](https://www.curseforge.com/members/LinkieIsBetterThanK9/projects), & [CFGrafanaStats](https://www.curseforge.com/members/CFGrafanaStats/projects)
 
+[Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) by [joosh_7889](https://www.curseforge.com/members/joosh_7889/projects), & [ThatGravyBoat](https://www.curseforge.com/members/thatgravyboat/projects)
+
 [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) by [thethonk](https://www.curseforge.com/members/thethonk/projects), & [rainbowcraft2](https://www.curseforge.com/members/rainbowcraft2/projects)
 
 ##### D
 
 [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair) by [Crendgrim](https://www.curseforge.com/members/Crendgrim/projects)
 
+[Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) by [juliand665](https://www.curseforge.com/members/juliand665/projects)
+
 ##### E
 
-Ecologics by SameDifferent, crispytwig, irishjevil, Drigonis_, foquito_azul, BooWhoMusic, Zero_DSRS_VX, brdbrn, dopadreaming
+[Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) by [SameDifferent](https://www.curseforge.com/members/samedifferent/projects), [crispytwig], [irishjevil], [Drigonis_], [foquito_azul](https://www.curseforge.com/members/foquito_azul/projects), [BooWhoMusic](https://www.curseforge.com/members/BooWhoMusic/projects), [Zero_DSRS_VX](https://www.curseforge.com/members/Zero_DSRS_VX/projects), [brdbrn](https://www.curseforge.com/members/brdbrn/projects), & [dopadreaming](https://www.curseforge.com/members/dopadreaming/projects)
 
 [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling), First-person Model, Not Enough Animations by [tr9zw](https://www.curseforge.com/members/tr9zw/projects)
+
+[Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric) by [Grend_G](https://www.curseforge.com/members/grend_g/projects)
 
 *Exline's Awnings by exlinegames
 
@@ -83,23 +93,25 @@ Ecologics by SameDifferent, crispytwig, irishjevil, Drigonis_, foquito_azul, Boo
 
 [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) by [RandomMcSomethin](https://www.curseforge.com/members/randommcsomethin/projects), [BrekiTomasson](https://www.curseforge.com/members/brekitomasson/projects), & [Fourmisain](https://www.curseforge.com/members/fourmisain/projects)
 
-FabricAPI by modmuss50, & sfPlayer1
+[FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api) by [modmuss50](https://www.curseforge.com/members/modmuss50/projects), & [sfPlayer1](https://www.curseforge.com/members/sfplayer1)
 
-FastOpenLinksAndFolders by altrisi
+[FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) by [altrisi](https://www.curseforge.com/members/altrisi/projects)
 
-ForgetMeChunk by mjwells2002 (BreadLoaf___), & [henkelmax](https://www.curseforge.com/members/henkelmax/projects)
+[Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric) by [Fuzs_](https://www.curseforge.com/members/fuzs_)
 
-Friends&Foes by faboslav
+[ForgetMeChunk](https://www.curseforge.com/minecraft/mc-mods/forgetmechunk) by [BreadLoaf___](https://www.curseforge.com/members/breadloaf___/projects), & [henkelmax](https://www.curseforge.com/members/henkelmax/projects)
+
+[Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes) by [faboslav](https://www.curseforge.com/members/faboslav/projects)
 
 ##### G
 
-GeckoLib by Thanosgecko, dertoaster_98, jozufozu, MCHorseYT
+[GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) by [Thanosgecko], [dertoaster_98], [jozufozu], [MCHorseYT]
 
 Global Data- & Resourcepacks by JTK222
 
 ##### H
 
-Here be no Dragons! by kb1000, & parzivail
+[Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons) by [kb1000](https://www.curseforge.com/members/kb1000/projects), & [parzivail](https://www.curseforge.com/members/parzivail)
 
 ##### I
 
@@ -107,19 +119,21 @@ Here be no Dragons! by kb1000, & parzivail
 
 [Improved Fire Overlay]() by [rufflesteels]()
 
-[Interactic]() by [gliscowo]()
+[Interactic](https://www.curseforge.com/minecraft/mc-mods/interactic) by [gliscowo](https://www.curseforge.com/members/gliscowo/projects)
 
 [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) by [mirinimi](https://www.curseforge.com/members/mirinimi)
 
-[Iron Chests]() by [cyberanner]()
+[Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) by [coderbot](https://www.curseforge.com/members/coderbot/projects), & [IMS21](https://www.curseforge.com/members/ims21/projects)
+
+[Iron Chests]() by [ProgWML6](https://www.curseforge.com/members/progwml6), [cyberanner](https://www.curseforge.com/members/cyberanner/projects), & [TechnoVision](https://www.curseforge.com/members/technovision/projects)
 
 ##### L
 
-[LazyDFU]() by [astei]()
+[LazyDFU](https://www.curseforge.com/minecraft/mc-mods/LazyDFU) by [tuxed](https://www.curseforge.com/members/tuxed/projects)
 
 [Lib Multipart](https://www.curseforge.com/minecraft/mc-mods/lib-multipart) by [AlexIIl](https://www.curseforge.com/members/alexiil/projects)
 
-[Lithium]() by [jellysquid3](), & [2No2Name]()
+[Lithium]() by [jellysquid3](https://www.curseforge.com/members/jellysquid3_/projects), [2No2Name](https://www.curseforge.com/members/2no2name/projacts), & [LucilleTea](https://www.curseforge.com/members/lucilletea/projects)
 
 ##### M
 
@@ -129,9 +143,15 @@ Here be no Dragons! by kb1000, & parzivail
 
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) by [ProspectorDev](https://www.curseforge.com/members/prospectordev/projects), [modmuss50](https://www.curseforge.com/members/modmuss50/projects), [jackassmc](https://www.curseforge.com/members/jackassmc/projects), & [TerraformersMC](https://www.curseforge.com/members/terraformersmc/projects)
 
+[Moisturization](https://www.curseforge.com/minecraft/mc-mods/moisturization-fabric) by [RandomMcSomethin](https://www.curseforge.com/members/randommcsomethin)
+
+##### N
+
+[No Telemetry](https://www.curseforge.com/minecraft/mc-mods/no-telemetry) by [kb1000](https://www.curseforge.com/members/kb1000)
+
 ##### P
 
-[Patchouli]() by [williewillus](), [Vazkii]() & [Hubry]()
+[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric) by [williewillus](https://www.curseforge.com/members/williewillus/projects), [Vazkii](https://www.curseforge.com/members/vazkii/projects) & [Hubry](https://www.curseforge.com/members/hubry/projects)
 
 ##### R
 
@@ -148,6 +168,8 @@ Here be no Dragons! by kb1000, & parzivail
 [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) by [tr9zw](https://www.curseforge.com/members/tr9zw/projects), & [andrew_10__](https://www.curseforge.com/members/andrew_10__/projects)
 
 [SmoothCoasters](https://www.curseforge.com/minecraft/mc-mods/smoothcoasters) by [m56738](https://www.curseforge.com/members/m56738/projects)
+
+[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by [jellysquid3_](https://www.curseforge.com/members/jellysquid3_)
 
 [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) by [henkelmax](https://www.curseforge.com/members/henkelmax/projects)
 
@@ -167,7 +189,9 @@ Here be no Dragons! by kb1000, & parzivail
 
 [Vanilla Parts](https://www.curseforge.com/minecraft/mc-mods/vanilla-parts/files/3797294) by [JuiceBus](https://www.curseforge.com/members/juicebus/projects)
 
-[Vistas](https://www.curseforge.com/minecraft/mc-mods/vistas) by [LudoCrypt](https://www.curseforge.com/members/ludocrypt/projects), [ProspectorDev](https://www.curseforge.com/members/prospectordev/projects), [TerraformersMC](https://www.curseforge.com/members/terraformersmc/projects), & [CFGrafanaStats](https://www.curseforge.com/members/CFGrafanaStats/projects)
+*[Vistas](https://www.curseforge.com/minecraft/mc-mods/vistas) by [LudoCrypt](https://www.curseforge.com/members/ludocrypt/projects), [ProspectorDev](https://www.curseforge.com/members/prospectordev/projects), [TerraformersMC](https://www.curseforge.com/members/terraformersmc/projects), & [CFGrafanaStats](https://www.curseforge.com/members/CFGrafanaStats/projects)
+
+[Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality) by [PinkGoosik](https://www.curseforge.com/members/pinkgoosik/projects)
 
 ##### W
 
@@ -190,5 +214,13 @@ Here be no Dragons! by kb1000, & parzivail
 ## Resources
 
 [Better Maps](https://www.curseforge.com/minecraft/texture-packs/better-maps) by [grimbop](https://www.curseforge.com/members/grimbop/projects), [joosh_7889](https://www.curseforge.com/members/joosh_7889/projects), & [terrariumearth](https://www.curseforge.com/members/terrariumearth)
+
+[Creeper Overhaul Overhaul](https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul-overhaul) by [wadoo154](https://www.curseforge.com/members/wadoo154)
+
+[Electric Trove (Legendary Tooltips)](https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips) by [Grend_G](https://www.curseforge.com/members/grend_g)
+
+[Farmland Moisture Textures](https://www.curseforge.com/minecraft/texture-packs/farmland-moisture-textures) by [stephenb6174](https://www.curseforge.com/members/stephenb6174)
+
+[Sildur's Enhanced Default](https://sildurs-shaders.github.io/) by [Sildur](https://github.com/Sildurs-shaders)
 
 [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) by [VanillaTweaks Team](https://vanillatweaks.net/about/)

@@ -1,0 +1,16 @@
+{
+    "plantEnable": true,
+    "plantLarge": true,
+    "blackListEnable": true,
+    "allowSapling": true,
+    "allowCrop": false,
+    "allowMushroom": false,
+    "allowFungus": false,
+    "allowFlower": false,
+    "allowOther": false,
+    "showTitleOnPlayerConnected": false,
+    "plantDelay": 40,
+    "avoidDense": 2,
+    "playerAround": 2,
+    "blackList": []
+}
