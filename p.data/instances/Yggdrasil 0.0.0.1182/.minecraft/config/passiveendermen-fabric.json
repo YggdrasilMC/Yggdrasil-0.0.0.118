@@ -1,0 +1,8 @@
+{
+	// If enabled, prevents the endermen from teleporting.
+	"preventEndermenFromTeleporting": true,
+	// If enabled, prevents from picking up and placing blocks.
+	"preventEndermenFromGriefing": true,
+	// If enabled, stops the endermen from attacking.
+	"preventEndermenFromAttackingFirst": true
+}

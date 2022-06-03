@@ -13,3 +13,6 @@ ModTranslations
 
 #Save Game Data
 saves
+
+#crash reports
+crash-reports/

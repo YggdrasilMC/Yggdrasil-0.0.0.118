@@ -25,8 +25,8 @@ fov:0.625
 screenEffectScale:0.0
 fovEffectScale:1.0
 gamma:0.5
-renderDistance:32
-simulationDistance:6
+renderDistance:16
+simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
 particles:1
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","global:Better+Maps+1.17.zip","global:Better-Leaves-6.2-1.13+.zip","global:CreeperOverhaulOverhaul_1.18.1-1.0.zip","global:EclecticTrove-noconfig-1.18.1-1.1.0.zip","global:Fixes.zip","global:HUD.zip","global:OX.zip","global:Parity.zip","global:Terrain.zip","global:Unobtrusive.zip","global:Utility.zip","global:Variation.zip","Black Icons","cullleaves/smartleaves","illuminations/pixelaccurate"]
+resourcePacks:["vanilla","Fabric Mods","global:Better+Maps+1.17.zip","global:Better-Leaves-6.2-1.13+.zip","global:CreeperOverhaulOverhaul_1.18.1-1.0.zip","global:EclecticTrove-noconfig-1.18.1-1.1.0.zip","global:Fixes.zip","global:HUD.zip","global:OX.zip","global:Parity.zip","global:Terrain.zip","global:Unobtrusive.zip","global:Utility.zip","global:Variation.zip","cullleaves/smartleaves","illuminations/pixelaccurate"]
 incompatibleResourcePacks:["global:Better+Maps+1.17.zip","cullleaves/smartleaves"]
 lastServer:
 lang:en_us
@@ -115,6 +115,7 @@ key_key.firstperson.toggle:key.keyboard.f6
 key_key.advancedcompass.openconfig:key.keyboard.period
 key_key.advancedcompass.newwaypoint:key.keyboard.v
 key_key.advancedcompass.openwaypointlist:key.keyboard.b
+key_key.cleanview.togglecleanview:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
@@ -140,26 +141,13 @@ key_presencefootsteps.settings.key:key.keyboard.f10
 key_key.travelersbackpack.inventory:key.keyboard.tab
 key_key.travelersbackpack.cycle_tool:key.keyboard.q
 key_key.veinmining.activate.desc:key.keyboard.unknown
-key_key.push_to_talk:key.keyboard.caps.lock
-key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.unknown
-key_key.disable_voice_chat:key.keyboard.unknown
-key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.i
-key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.unknown
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:0.8062914
-soundCategory_music:0.3309859
+soundCategory_music:0.0
 soundCategory_record:0.3309859
 soundCategory_weather:0.13028169
 soundCategory_block:0.5070422
