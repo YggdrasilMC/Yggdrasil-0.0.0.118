@@ -1,6 +1,7 @@
-#prevent accounts file syncing
+#prevent assorted .json's syncing
 accounts.json
 usercache.json
+realms_persistence.json
 
 #fabric data
 .fabric
@@ -16,3 +17,6 @@ saves
 
 #crash reports
 crash-reports/
+
+#waypoints
+waypoints/

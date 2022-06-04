@@ -1,0 +1,8 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI": true
+  },
+  "hideBackground": {}
+}
