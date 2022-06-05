@@ -6,26 +6,26 @@
     "hideFromPlayerList": true,
     "hideFromDebug": true,
     "enableTextToSpeech": false,
-    "rateLimit": 250,
+    "rateLimit": 1000,
     "maxHealthForRender": 40,
     "maxHeartsPerLine": 10
   },
   "overlay": {
     "position": {
       "align": {
-        "x": "CENTER",
-        "y": "TOP"
+        "x": "RIGHT",
+        "y": "MIDDLE"
       },
       "anchor": {
-        "x": "CENTER",
-        "y": "TOP"
+        "x": "RIGHT",
+        "y": "MIDDLE"
       },
       "x": 0,
       "y": 0,
       "bossBarsOverlap": false
     },
     "color": {
-      "alpha": 80,
+      "alpha": 69,
       "themes": [
         {
           "id": "waila:dark",
@@ -42,11 +42,11 @@
           "fontColor": 10526880
         }
       ],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     },
-    "scale": 1.0
+    "scale": 0.69
   },
-  "formatting": {
+  "formatter": {
     "modName": "§9§o%s",
     "blockName": "§f%s",
     "fluidName": "§f%s",

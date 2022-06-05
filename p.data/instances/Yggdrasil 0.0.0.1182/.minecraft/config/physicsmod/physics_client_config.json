@@ -40,7 +40,7 @@
   "bannerPhysicsRange": 48.0,
   "impactSounds": true,
   "soundVolume": 1.0,
-  "blockPhysicsRange": 96.0,
+  "blockPhysicsRange": 69.70000457763672,
   "vineRange": 32.0,
   "waterDensity": 3,
   "snowPhysics": true,
@@ -55,14 +55,14 @@
   "guiPhysicsKey": 295,
   "blockSettings": {
     "Physics Type": 1,
-    "Lifetime": 2.299999952316284,
+    "Lifetime": 0.9000000357627869,
     "Lifetime Variance": 3.299999952316284,
-    "Scale": 0.29999998211860657,
+    "Scale": 0.2199999988079071,
     "Animation": 0
   },
   "mobSettings": {
     "Physics Type": 0,
-    "Lifetime": 4.0,
+    "Lifetime": 33.60000228881836,
     "Lifetime Variance": 3.0,
     "Animation": -1
   },
