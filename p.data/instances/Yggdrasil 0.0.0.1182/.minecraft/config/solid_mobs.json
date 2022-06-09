@@ -1,0 +1,9 @@
+{
+  "allowGroundItemCollisions": false,
+  "allowPlayerCollisions": true,
+  "allowPetCollisions": true,
+  "bouncySlimes": true,
+  "fallDamageHalvedWithLandedOnMob": true,
+  "fallDamageAmountAbsorbedByLandedOnMob": 0.5,
+  "allowPaintingAndItemFrameCollisions": true
+}

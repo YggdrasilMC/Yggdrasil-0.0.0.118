@@ -12,7 +12,11 @@
     "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
     "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
     "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
-    "net.minecraft.class_5522": true
+    "net.minecraft.class_5522": true,
+    "dlovin.advancedcompass.gui.config.WaypointAddGui": true,
+    "net.minecraft.class_5375": true,
+    "me.shedaniel.advancementsenlarger.gui.BiggerAdvancementsScreen": true,
+    "eu.midnightdust.core.screen.MidnightConfigOverviewScreen": true
   },
   "hideBackground": {
     "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
