@@ -125,7 +125,7 @@ Global Data- & Resourcepacks by JTK222
 
 [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) by [coderbot](https://www.curseforge.com/members/coderbot/projects), & [IMS21](https://www.curseforge.com/members/ims21/projects)
 
-[Iron Chests]() by [ProgWML6](https://www.curseforge.com/members/progwml6), [cyberanner](https://www.curseforge.com/members/cyberanner/projects), & [TechnoVision](https://www.curseforge.com/members/technovision/projects)
+[Iron Chests: Restocked](https://www.curseforge.com/minecraft/mc-mods/ironchests/) by [ThatGravyBoat ]()
 
 ##### L
 
