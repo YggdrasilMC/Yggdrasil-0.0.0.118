@@ -5,7 +5,7 @@
 
 Runtime - [Microsoft OpenJDK](https://docs.microsoft.com/en-us/java/openjdk/overview) [(contributions to OpenJDK)](https://github.com/openjdk/jdk/graphs/contributors)
 
-Launcher - [MultiMC](https://multimc.org/) [(contributions to MultiMC Launcher)](https://github.com/MultiMC/Launcher/graphs/contributors)
+Launcher - PolyMC
 
 Platform - [Minecraft](https://www.minecraft.net/en-us/about-minecraft) [(credits)](https://www.minecraft.net/en-us/credits)
 
