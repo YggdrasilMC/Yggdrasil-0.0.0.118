@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "language": "en",
+  "continueOnRestart": false,
+  "tasks": {
+    "minecraft:the_end": {
+      "cancelled": true,
+      "radius": 6666.0,
+      "centerX": 0.0,
+      "centerZ": 0.0,
+      "iterator": "concentric",
+      "shape": "circle",
+      "count": 88999,
+      "time": 3049981
+    },
+    "minecraft:overworld": {
+      "cancelled": false,
+      "radius": 500.0,
+      "centerX": 2000.0,
+      "centerZ": 4000.0,
+      "iterator": "concentric",
+      "shape": "diamond",
+      "count": 2573,
+      "time": 95202
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_availableProviders": "Available providers: ",
+  "defaultProvider": "vanilla",
+  "_section": "Vanilla/Build in permissions",
+  "defaultPermissions": {},
+  "level1Permissions": {},
+  "level2Permissions": {},
+  "level3Permissions": {},
+  "level4Permissions": {}
+}

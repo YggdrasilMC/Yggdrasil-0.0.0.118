@@ -1,0 +1,6 @@
+enableModOptions = true
+enableRFARB = true
+enableHideUnnecessaryShareToLan = true
+enableRejoinButton = true
+enableModMenuCompat = true
+enableJoinLastWorldButton = true

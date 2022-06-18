@@ -1,0 +1,40 @@
+{
+  "id": "shulkyholder",
+  "name": "Shulky Holder",
+  "author": "ShinoFuramingo",
+  "noGravity": false,
+  "hidePlate": true,
+  "small": false,
+  "showArms": true,
+  "invisible": false,
+  "headRotation": [
+    0.9196371,
+    -1.3889704,
+    0.0
+  ],
+  "bodyRotation": [
+    0.0,
+    -30.781982,
+    0.0
+  ],
+  "leftArmRotation": [
+    -10.0,
+    0.0,
+    -10.0
+  ],
+  "rightArmRotation": [
+    -45.0,
+    -33.0,
+    22.0
+  ],
+  "leftLegRotation": [
+    -1.0,
+    0.0,
+    -1.0
+  ],
+  "rightLegRotation": [
+    1.0,
+    0.0,
+    1.0
+  ]
+}

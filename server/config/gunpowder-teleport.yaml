@@ -1,0 +1,16 @@
+# Gunpowder Teleport Config
+
+# Max number of homes per user
+# Configurable with permissions, then this will be a fallback.
+maxHomes: 5
+
+# Delay between command and teleportation in seconds
+# Configurable with permissions, then this will be a fallback.
+teleportDelay: 3
+
+# Seconds until /tpa expires
+tpaTimeout: 60
+
+# Distance for /rtp
+# Configurable with permissions, then this will be a fallback.
+rtpDistance: 6000

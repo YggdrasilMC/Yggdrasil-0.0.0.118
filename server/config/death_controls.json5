@@ -1,0 +1,59 @@
+{
+  "inventory": {
+    "partial_keep_inventory": {
+      "trinket_slots_to_keep": [
+        "__comment: format example: chest.cape. See https://github.com/emilyalexandra/trinkets/wiki/Default-Slots for available default slots."
+      ],
+      "keep_all_trinkets": false,
+      "keep_armor": true,
+      "keep_hotbar": false,
+      "keep_mainhand": true,
+      "keep_offhand": true,
+      "keep_main_inventory": false
+    },
+    "loss": {
+      "durability_loss_on_dropped_items": 0.05,
+      "durability_loss_on_kept_items": 0.05
+    },
+    "random": {
+      "chance_of_dropping_each_kept_item": 0.0,
+      "chance_of_destroying_each_dropped_item": 0.0
+    },
+    "lists": {
+      "always_keep": [],
+      "always_drop": [],
+      "always_destroy": []
+    }
+  },
+  "effects": {
+    "respawn_effects": [
+      {
+        "id": "minecraft:blindness",
+        "duration": 6,
+        "amplifier": 1
+      }
+
+    ],
+    "custom_effect": {
+      "_comment": "Modifiers are added, while multipliers are multiplied to the default value. Gradual: true makes the effect intensity scale with duration",
+      "duration": 0,
+      "gradual_recovery": true,
+      "max_health_modifier": -10.0,
+      "knockback_resistance_modifier": 0.0,
+      "movement_speed_multiplier": 1.0,
+      "attack_damage_modifier": -1.0,
+      "attack_speed_multiplier": 1.0,
+      "armor_modifier": 0.0,
+      "armor_toughness_modifier": 0.0,
+      "attack_knockback_modifier": 0.0,
+      "luck_modifier": 0.0
+    }
+  },
+  "experience": {
+    "_comment": "Recoverable xp percent is the percentage of dropped xp the orbs contain. I.e. for 0.25, the orbs would contain 25 xp for every 100 xp dropped.",
+    "dropped_xp_percent": 1,
+    "recoverable_xp_percent": 1,
+    "maximum_recoverable_xp": 1000000.0,
+    "use_vanilla_formula": false
+  }
+}

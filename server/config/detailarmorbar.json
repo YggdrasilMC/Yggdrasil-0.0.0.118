@@ -1,0 +1,10 @@
+{
+  "effectType": "AURA",
+  "effectSpeed": "NORMAL",
+  "effectThorn": "ANIMATION",
+  "toggleEnchants": true,
+  "toggleNetherites": true,
+  "toggleThorns": true,
+  "toggleDurability": true,
+  "toggleMending": true
+}

@@ -1,0 +1,29 @@
+{
+  "configVersion": "1.6.1",
+  "blacklist": {
+    "namespace": [
+      "examplenamespace"
+    ],
+    "identifier": [
+      "modid:advancement_id"
+    ],
+    "type": [
+      "task | challenge | goal"
+    ]
+  },
+  "whitelist": {
+    "namespace": [
+      "examplenamespace"
+    ],
+    "identifier": [
+      "modid:advancement_id"
+    ],
+    "type": [
+      "task | challenge | goal"
+    ]
+  },
+  "useBlacklist": false,
+  "useWhitelist": false,
+  "useClaimMessages": true,
+  "tickDelayBetweenClaimMessages": 6000
+}

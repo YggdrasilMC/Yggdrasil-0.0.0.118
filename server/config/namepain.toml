@@ -1,0 +1,37 @@
+applyToMobs = true
+seeInjuredNames = true
+injuredAlwaysNamed = false
+tamesAlwaysNamed = true
+villagersAlwaysNamed = true
+seeYourName = false
+applyToScores = false
+stripFormat = false
+seeFrameNames = true
+namesWithoutHUD = false
+visibleRange = 20
+doValentines = false
+doAprilFools = false
+
+[nameMax]
+R = 0
+G = 133
+B = 30
+A = 255
+
+[nameMin]
+R = 255
+G = 0
+B = 0
+A = 255
+
+[plateMax]
+R = 0
+G = 94
+B = 41
+A = 63
+
+[plateMin]
+R = 192
+G = 0
+B = 0
+A = 63

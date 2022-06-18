@@ -1,0 +1,18 @@
+{
+   "comment1": "Settings for your database. THESE MUST BE THE SAME BETWEEN SERVERS. (More info at https://github.com/MrNavaStar/invSync)",
+   "Database_Name": "InvSync.db",
+   "Player_Data_Table_Name": "PlayerData",
+   "Database_Directory": "C:/Yggdrasil/inventory",
+   "comment2": "Settings for what to sync between servers. These can be different between servers if you wish.",
+   "Sync_Inv": true,
+   "Sync_Armour": true,
+   "Sync_eChest": true,
+   "Sync_Xp": true,
+   "Sync_Score": true,
+   "Sync_Health": true,
+   "Sync_Food_Level": true,
+   "Sync_Status_Effects": false,
+   "comment3": "If you have the following mods installed, you can sync them too! These can be different between servers if you wish.",
+   "Player_Roles_Table_Name": "PlayerRoles",
+   "Sync_Player_Roles": false
+}

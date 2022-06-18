@@ -1,0 +1,9 @@
+{
+  "blazeFireCollision": true,
+  "ghastIncreasedHealth": false,
+  "babyWitherSkeleton": true,
+  "piglins": {
+    "piglinGoldenArmor": 4,
+    "piglinRideHoglin": true
+  }
+}

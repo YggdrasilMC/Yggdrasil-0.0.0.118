@@ -1,0 +1,40 @@
+{
+  "id": "ygdefault",
+  "name": "Mannequin",
+  "author": "ShinoFuramingo",
+  "noGravity": false,
+  "hidePlate": true,
+  "small": false,
+  "showArms": true,
+  "invisible": false,
+  "headRotation": [
+    1.246801,
+    -4.0750384,
+    0.0
+  ],
+  "bodyRotation": [
+    0.0,
+    -1.7132397,
+    0.0
+  ],
+  "leftArmRotation": [
+    -10.0,
+    0.0,
+    -10.0
+  ],
+  "rightArmRotation": [
+    -15.0,
+    0.0,
+    10.0
+  ],
+  "leftLegRotation": [
+    -1.0,
+    0.0,
+    -1.0
+  ],
+  "rightLegRotation": [
+    1.0,
+    0.0,
+    1.0
+  ]
+}

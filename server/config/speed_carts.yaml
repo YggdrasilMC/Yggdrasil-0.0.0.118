@@ -1,0 +1,16 @@
+# Configuration for Speed Carts
+# -----------------------------
+# A server restart is required to apply changes.
+
+# The default speed for all carts in the world, in meters per second.
+defaultSpeed: 8
+
+# The minimum allowable speed limit that can be set, in meters per second.
+minimumSpeed: 1
+
+# The maximum allowable speed limit that can be set, in meters per second.
+maximumSpeed: 64
+
+# The regular expression that's used to determine if a sign should affect the cart's speed.
+# By default, it matches any positive decimal number.
+signRegex: \d+(\.\d+)?

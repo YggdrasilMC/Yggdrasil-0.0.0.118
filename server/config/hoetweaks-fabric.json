@@ -1,0 +1,18 @@
+{
+	// How much quicker a cropblock (pumpkin/melon) is broken than by default.
+	"cropBlockBreakSpeedModifier": 8,
+	// Whether the bigger hoe range should only be used if the player is crouching when right-clicking the center block.
+	"mustCrouchToHaveBiggerHoeRange": true,
+	// The wooden hoe till range (default while crouching). 0 = 1x1
+	"woodenTierHoeRange": 0,
+	// The wooden hoe till range (default while crouching). 1 = 3x3
+	"stoneTierHoeRange": 1,
+	// The wooden hoe till range (default while crouching). 2 = 5x5
+	"goldTierHoeRange": 2,
+	// The wooden hoe till range (default while crouching). 2 = 5x5
+	"ironTierHoeRange": 2,
+	// The wooden hoe till range (default while crouching). 3 = 7x7
+	"diamondTierHoeRange": 3,
+	// The wooden hoe till range (default while crouching). 4 = 9x9
+	"netheriteTierHoeRange": 4
+}

@@ -1,0 +1,5 @@
+// Blacklist blocks from placing
+// example: minecraft:dirt
+minecraft:stone_button
+minecraft:oak_button
+minecraft:spruce_button
