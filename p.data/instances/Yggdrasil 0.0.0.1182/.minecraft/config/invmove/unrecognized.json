@@ -1,0 +1,25 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true,
+    "net.diebuddies.physics.settings.animation.AnimationSettingsScreen": true,
+    "dev.tr7zw.skinlayers.SkinLayersModBase$1": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "mcp.mobius.waila.gui.screen.HomeScreen": true,
+    "mcp.mobius.waila.gui.screen.WailaConfigScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+    "net.minecraft.class_5522": true,
+    "dlovin.advancedcompass.gui.config.WaypointAddGui": true,
+    "net.minecraft.class_5375": true,
+    "me.shedaniel.advancementsenlarger.gui.BiggerAdvancementsScreen": true,
+    "eu.midnightdust.core.screen.MidnightConfigOverviewScreen": true
+  },
+  "hideBackground": {
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+    "net.minecraft.class_5522": true
+  }
+}

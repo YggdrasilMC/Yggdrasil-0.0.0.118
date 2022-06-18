@@ -1,5 +1,5 @@
 {
-  "maxPhysicsObjects": 10000,
+  "maxPhysicsObjects": 6135,
   "particleLifetimeVines": 4.0,
   "particleLifetimeItems": 3.0,
   "particleLifetimeParticles": 0.1,
@@ -9,7 +9,7 @@
   "particleLifetimeVarianceParticles": 3.0,
   "particleLifetimeVarianceLiquids": 3.0,
   "cpuThreads": 2,
-  "itemPhysics": true,
+  "itemPhysics": false,
   "minecraftBlockBreakParticles": false,
   "vinePhysics": true,
   "capePhysics": true,
@@ -40,7 +40,7 @@
   "bannerPhysicsRange": 48.0,
   "impactSounds": true,
   "soundVolume": 1.0,
-  "blockPhysicsRange": 96.0,
+  "blockPhysicsRange": 50.0,
   "vineRange": 32.0,
   "waterDensity": 3,
   "snowPhysics": true,
@@ -54,15 +54,15 @@
   "snowChunkSize": 0,
   "guiPhysicsKey": 295,
   "blockSettings": {
-    "Physics Type": 1,
-    "Lifetime": 2.299999952316284,
-    "Lifetime Variance": 3.299999952316284,
-    "Scale": 0.29999998211860657,
+    "Physics Type": 2,
+    "Lifetime": 1.2000000476837158,
+    "Lifetime Variance": 0.30000001192092896,
+    "Scale": 1.2799999713897705,
     "Animation": 0
   },
   "mobSettings": {
     "Physics Type": 0,
-    "Lifetime": 4.0,
+    "Lifetime": 33.60000228881836,
     "Lifetime Variance": 3.0,
     "Animation": -1
   },
